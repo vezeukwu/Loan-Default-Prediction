@@ -1,16 +1,13 @@
 # Loan-Default-Prediction
-LoanAnalytics Inc. seeks to implement an automated loan default prediction model that can identify high-risk borrowers early in the loan approval process. The model should help the company predict borrower default risk, improve loan approval efficiency and minimize financial losses
 
 ![image](https://github.com/user-attachments/assets/c23f4872-5bc6-4f7f-9091-ef04edc44ceb)!![image](https://github.com/user-attachments/assets/34fbe364-8a48-418c-a7a6-58c5c8022258)
 ![image](https://github.com/user-attachments/assets/c23f4872-5bc6-4f7f-9091-ef04edc44ceb)
 
 
 ## Introduction
-LoanAnalytics Inc. is a financial services company that specializes in providing personal and business loans to a broad range of clients. 
-Established in 2010, LoanAnalytics Inc. has expanded its client base by integrating data-driven decision-making processes, improving the efficiency of credit approval and risk management.
+LoanAnalytics Inc. is a financial services company that specializes in providing personal and business loans to a broad range of clients. Established in 2010, LoanAnalytics Inc. has expanded its client base by integrating data-driven decision-making processes, improving the efficiency of credit approval and risk management.
 
-The rapid growth of the lending industry, combined with increasing economic uncertainties, has led to a rise in loan defaults, which poses significant financial
-risks for lenders. Traditional loan evaluation systems rely heavily on static information like credit scores, employment history, and income, which may not provide a complete risk profile for borrowers. An innovative loan default prediction model that integrates dynamic borrower data and advanced machine learning algorithms is necessary to assess the risk of default more accurately.
+The rapid growth of the lending industry, combined with increasing economic uncertainties, has led to a rise in loan defaults, which poses significant financial risks for lenders. Traditional loan evaluation systems rely heavily on static information like credit scores, employment history, and income, which may not provide a complete risk profile for borrowers. An innovative loan default prediction model that integrates dynamic borrower data and advanced machine learning algorithms is necessary to assess the risk of default more accurately.
 
 ## Problem Statement
 LoanAnalytics Inc. seeks to implement an automated loan default prediction model that can identify high-risk borrowers early in the loan approval process. The model should help the company:
@@ -77,17 +74,16 @@ HasCoSigner - Indicates if the borrower has a cosigner.
 Default - Whether the borrower defaulted on the loan (0 = No, 1 = Yes).
 
 ## Project Workflow
-Data Cleaning: Handle any missing values, Remove duplicate records or irrelevant columns, Check for and correct anomalies.
+Data Cleaning: Handled missing values, duplicated records and irrelevant columns, Checked for and corrected anomalies.
 
-Exploratory Data Analysis (EDA): Visualize distributions and relationships between features, Identify patterns, trends, and potential anomalies, Form hypotheses based on data insights.
+Exploratory Data Analysis (EDA): Visualized distributions and relationships between features, Identified patterns, trends, and potential anomalies, Form hypotheses based on data insights.
 
-Data Preprocessing: Scale/normalize numerical features and encode categorical data, Split data into training, validation, and test sets.
+Data Preprocessing: Scaled and normalized numerical features and encoded categorical data, Splitted data into training, validation, and test sets.
 
-Model Evaluation: Evaluate model using appropriate metrics (e.g., accuracy, F1_score), Analyze performance across subsets of data, Compare against baseline and conduct error analysis.
+Model Evaluation: Evaluated models using appropriate metrics (e.g., accuracy, F1_score), Analyzed performance across subsets of data, Compared against baseline and conducted error analysis.
 
-Model Training: Select and train machine learning models on the data, Tune hyperparameters and use cross-validation., Experiment with different algorithms and assess performance.
+Model Training: Selected and trained machine learning models on the data, Tuned hyperparameters and used cross-validation., Experimented with different algorithms and assessed their differet performances.
 
-## Conclusion
 
 
 
